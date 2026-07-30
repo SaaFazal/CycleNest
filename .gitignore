@@ -1,0 +1,23 @@
+# NetBeans build artifacts
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Private NetBeans configuration
+nbproject/private/
+
+# IDE files
+*.class
+*.jar
+!web/WEB-INF/lib/*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
